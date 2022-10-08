@@ -1,0 +1,261 @@
+.but{
+    background-color: orangered;
+    color: black;
+}
+input ::placeholder{
+    color: white !important;
+}
+.nav-link{
+    color: white;
+}
+.butt{
+    background-color: orangered;
+    color: white;
+    width: 150px;
+    /* justify-content: center; */
+}
+.fog1{
+   text-align: right; 
+}
+.right{
+    text-align: right;
+    /* padding: 5px; */
+    margin: 25px;
+}
+.create{
+    margin: 20px;
+    padding: 10px;
+}
+.light{
+    background-color: orangered;
+    color: white;
+    margin-bottom: 0px;
+}
+.sub-nav{
+    background-image: url(./images/bgimage.jpg);
+    margin-top: 0px;
+    
+}
+.wel{
+    /* margi/n: 0 20px; */
+    margin-left:3rem;
+    padding: 20px;
+    color: white;
+}
+.bworm{
+    color: orangered;
+}
+.exp{
+    padding: 0px;
+    background-color: orangered;
+    color: white;
+    width: 180px;
+}
+.read{
+    background-color: orangered;
+    color: white;
+    border-radius: 20px;
+    margin: 20px; 
+    justify-content: space-between;  
+}
+.how{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 60px;
+}
+.space{
+    margin: 10px;
+    padding: 10px;
+}
+.howItWorksContainer
+{
+    height: 400px;
+}
+
+.mid{
+    padding-top: 50px;
+}
+@media only screen and (max-width: 558px) {
+
+    .mid{
+        padding-top: 0;
+      }
+}
+.trend{
+    text-align: center;
+    color: white;
+}
+.harry{
+    width: 50%;
+    border-radius: 20px;
+    margin: 0px auto;
+    background: white;
+    padding: 2px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.fav-search{
+    border-radius: 50px;
+    margin: 50px;
+    padding: 10px;
+}
+.book{
+    color: white;
+    margin: 10px;
+}
+.img1{
+    display: block;
+    margin: 10px auto;
+}
+.search{
+    padding: 5px;
+    display: flex;
+}
+.vec{
+    padding-left: 2px;
+}
+.del{
+    padding-right: 2px;
+}
+.next{
+    padding: 20px;
+    padding-top: 50px;
+    margin-top: 80px;
+    background-color: orangered;
+}
+.story{
+    background: white;
+    padding: 10px;
+    border-radius: 25px;
+}
+.last{
+    color: black;
+}
+hr{
+    color: orangered;
+}
+/* LANGUAGE TRANSLATOR */
+.color{
+    background: orangered;
+    width: 150px;
+    color: white;
+}
+.left{
+    border-left: solid orangered;
+}
+.rate{
+    margin-right: 20px;
+    padding: 25px;
+}
+.man{
+    padding: 20px;
+    margin: 0,10px;
+}
+.woman{
+    margin-top: 150px;
+    margin-left: 80px;
+}
+.footer{
+    display: flex;
+    padding: 60px;
+    background-color: orangered;
+    color: white;
+    justify-content: space-between;
+}
+.pink{
+    border-radius: 15px;
+    background: white;
+    columns: black;
+}
+.footer .language{
+    margin-left: 40%;
+    /* justify-self: end; */
+}
+/* DASHBOARD */
+.red{
+    background-color: orangered;
+}
+.clear{
+    background-color: white;
+    border-radius: 20px;
+    justify-content: right;
+}
+.flexx{display: flex;
+flex-direction: row;}
+
+
+/* PROFILE */
+.lady{
+    border-radius: 400px;
+}
+.pers {
+    background-color: orangered;
+}
+.rating{
+    margin-left: 50px;
+    justify-content: space-between;
+}
+.star img{
+    width: 100px;
+}
+.mimi{
+    justify-content: center;
+}
+.readn{
+    background-color: orangered;
+    width: 100px;
+    height: 100px;
+    color: white;
+    margin-left: 100px;
+    padding-left: 10px;
+    border-radius: 50%;
+    text-align: center;
+    padding-top: 10px;
+}
+.extra{
+    background: orangered;
+    color: white;
+    padding: 15px;
+}
+/* PARENTAL CONTROL */
+h1{
+    text-align: center;
+}
+h5{
+    margin-left: 10px;
+}
+.age{
+    border: 5px solid #ff3609;
+    border-radius:20px;
+    width: 50%;
+}
+.update{
+    background-color: orangered;
+    color: white;
+    border-radius: 10px;
+}
+
+
+
+/* translate */
+
+.translate {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	padding-top: 90px;
+	margin-top: 20px;
+	padding-bottom: 80px;
+
+	background-color: #ff3609;
+	color: white;
+}
+.translatedText {
+	border: solid 1px;
+	height: 100px;
+	font-style: italic;
+	padding: 1rem;
+	border-radius: 20px;
+}
